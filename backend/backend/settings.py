@@ -10,9 +10,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['ayp.sa-help.ru', 'localhost', '127.0.0.1']
 
-
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
